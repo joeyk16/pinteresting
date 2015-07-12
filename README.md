@@ -1,4 +1,1 @@
-#One Month Rails
-
-This is the pinteresting sample appliaction for
-[+One Month Rails*] {www.onemonthrails.com}
+This is a Pintrest.com clone application
